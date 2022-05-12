@@ -1,1 +1,1 @@
-#This is my Simple Calculator on Java
+This is my Simple Calculator on Java.
